@@ -1,0 +1,30 @@
+Package: essentialstools
+Title: Datasets and Utilities for Essentials of Statistics for the
+        Behavioral Sciences
+Version: 0.1.2
+Authors@R: 
+    person("James", "Witnauer",
+           email = "jwitnaue@brockport.edu",
+           role = c("aut", "cre"))
+Description: Provides instructional datasets and simple wrapper functions
+    for selected analyses used in 'Essentials of Statistics for the
+    Behavioral Sciences'. The package is intended to support textbook examples 
+    by distributing data in a form that
+    is easy for students and instructors to access within R. Current
+    functionality includes packaged datasets and convenience wrappers for
+    functions from 'ez', 'pwr', and 'WebPower' for analysis of variance and
+    statistical power calculations. The package is designed as a companion
+    resource for teaching and learning in introductory and intermediate
+    statistics courses.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Depends: R (>= 3.5)
+LazyData: true
+Imports: ez, WebPower, pwr
+NeedsCompilation: no
+Packaged: 2026-03-10 13:33:04 UTC; Jim
+Author: James Witnauer [aut, cre]
+Maintainer: James Witnauer <jwitnaue@brockport.edu>
+Repository: CRAN
+Date/Publication: 2026-03-16 16:40:16 UTC

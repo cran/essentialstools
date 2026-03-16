@@ -1,0 +1,10 @@
+0a54ff8227cfe437f8b6be19d0b4a684 *DESCRIPTION
+12c4985cc109f0a70432131a2c12979d *LICENSE
+82e97157e4de03a2cba4992eb73b363b *NAMESPACE
+fa688630104d6315adcbd9e2e6ebaec1 *R/data.R
+2abf092cc6a31253f6c0038195897489 *R/wrappers.R
+e52bc96f1655e30d9d7b1fcab9d110ab *data/birdRT.rda
+5a208770f8d69575d832b4e8916f34e1 *man/birdRT.Rd
+77daea12c8bbe345f855927e845367c0 *man/run_ez_anova.Rd
+226dcd9af19f619ebf1d26c1a89b19d7 *man/run_pwr_t_test.Rd
+9a8a5d1a533c1a2625b4406fb49493a4 *man/run_wp_ttest.Rd
