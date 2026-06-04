@@ -1,6 +1,7 @@
-a90bcc441cfa5943b5031ef3df6fbb6f *DESCRIPTION
+fda967dc08957b9d527fa1c56028adcb *DESCRIPTION
 12c4985cc109f0a70432131a2c12979d *LICENSE
 82e97157e4de03a2cba4992eb73b363b *NAMESPACE
+01ee61089c87954f2c89ad0adb7d8b46 *R/SearchData.R
 ccc8da8475d97c80b0e682761f0b9d60 *R/SleepData.R
 6378c55c8f491ba208449030ca8f2e93 *R/data_EVData.R
 ddf265d34f13116584b4296027bb1844 *R/data_birdRT.R
@@ -8,10 +9,12 @@ ddf265d34f13116584b4296027bb1844 *R/data_birdRT.R
 2abf092cc6a31253f6c0038195897489 *R/wrappers.R
 d54042561b90aafd8a9a202ea63e1e4b *build/partial.rdb
 0a5e40b822d62f5e20d798a4eea45083 *data/EVData.rda
+119a268053a2aec7004b72743d25299c *data/SearchData.rda
 877357c9ce60de3d05817eb34307a424 *data/SleepData.rda
 58cbbb86bdfa085b56f24fc901729eac *data/birdRT.rda
 039fa91240cd0a43e7ec4dcf96746b8e *data/music.rda
 27d6287df7111092c79c998ef75e8ae3 *man/EVData.Rd
+274645215e2b5d621d2eb01d526397d7 *man/SearchData.Rd
 85d585dcf894f80f0ec6bf0db9555746 *man/SleepData.Rd
 25068feb75a04c1c65f25a822f0e17cf *man/birdRT.Rd
 c208ad09f2e8da342febb6946c323a94 *man/music.Rd
