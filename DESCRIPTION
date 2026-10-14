@@ -1,7 +1,7 @@
 Package: essentialstools
 Title: Datasets and Utilities for Essentials of Statistics for the
         Behavioral Sciences
-Version: 0.1.7
+Version: 0.1.8
 Authors@R: 
     person("James", "Witnauer",
            email = "jwitnaue@brockport.edu",
@@ -21,8 +21,8 @@ Depends: R (>= 3.5)
 LazyData: true
 Imports: ez, WebPower, pwr
 NeedsCompilation: no
-Packaged: 2026-06-04 10:14:11 UTC; Jim
+Packaged: 2026-10-14 22:38:10 UTC; Jim
 Author: James Witnauer [aut, cre]
 Maintainer: James Witnauer <jwitnaue@brockport.edu>
 Repository: CRAN
-Date/Publication: 2026-06-04 17:00:02 UTC
+Date/Publication: 2026-10-14 23:02:08 UTC
